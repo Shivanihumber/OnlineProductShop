@@ -13,5 +13,3 @@ Its an online shop where a user can login and register the product and admin use
 ![part10](https://user-images.githubusercontent.com/35033507/73560657-5a702880-4425-11ea-8291-7d6b98c1b2cf.png)
 ![part11](https://user-images.githubusercontent.com/35033507/73560659-5b08bf00-4425-11ea-8784-88772fd0c911.png)
 ![part12](https://user-images.githubusercontent.com/35033507/73560660-5b08bf00-4425-11ea-9599-c4739bf0af53.png)
-![part13](https://user-images.githubusercontent.com/35033507/73560661-5ba15580-4425-11ea-984d-c30015969bbc.png)
-![part14](https://user-images.githubusercontent.com/35033507/73560663-5ba15580-4425-11ea-9212-a1a843e48b68.png)
